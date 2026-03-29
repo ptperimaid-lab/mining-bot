@@ -15,7 +15,7 @@ bot.onText(/\/start/, (msg) => {
         [
           {
             text: "⛏️ Mulai Mining",
-            web_app: { url: "ISI_URL_WEB_KAMU" }
+            web_app: { url: "https://mining-bot-production.up.railway.app" }
           }
         ]
       ]
